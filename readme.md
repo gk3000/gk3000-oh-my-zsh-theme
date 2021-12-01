@@ -13,3 +13,15 @@ Displays x for uncommitted git history and v for clean
 ---
 
 <img src='./screens/screen-02.png' alt='clean git v'/>
+
+---
+
+## Installation
+
+Copy `gk3000.zsh-thme` file to `~/.oh-my-zsh/themes` folder and activate in `~/.zshrc`:
+
+	ZSH_THEME="gk3000"
+
+Then `source ~/.zshrc`.
+
+Done!
